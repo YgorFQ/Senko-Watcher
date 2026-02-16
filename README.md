@@ -1,6 +1,6 @@
 # 🦊 Senko Watcher
 
-**Senko Watcher** é um monitor automático de playlists do YouTube que detecta e baixa novas músicas ou vídeos adicionados às suas playlists favoritas.
+**Senko Watcher** é um monitor automático de playlists do YouTube que detecta e baixa novas músicas ou vídeos adicionados às suas playlists favoritas. Ou simplesente um mini projetinho que baixa videos.
 
 ![Status](https://img.shields.io/badge/status-active-success.svg)
 ![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
@@ -42,7 +42,7 @@
 
 ### Sistema Operacional
 - **Windows** 10/11 (recomendado)
-- **Linux** (testado no Ubuntu)
+- **Linux** (Não testado 100%)
 
 ### Software Necessário
 
@@ -440,16 +440,6 @@ Para playlists com centenas de vídeos:
 1. Use "Sincronizar Histórico" primeiro (sem download)
 2. Depois selecione manualmente o que baixar
 3. Ative auto-download apenas depois
-
----
-
-## 📞 Suporte
-
-Encontrou um bug ou tem uma sugestão?
-
-- 🐛 [Reportar Bug](https://github.com/seu-usuario/senko-watcher/issues)
-- 💡 [Sugerir Feature](https://github.com/seu-usuario/senko-watcher/issues)
-- 📧 Email: seu-email@exemplo.com
 
 ---
 
