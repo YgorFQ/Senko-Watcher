@@ -4,7 +4,7 @@
 
 ![Status](https://img.shields.io/badge/status-active-success.svg)
 ![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
-![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux-lightgrey.svg)
+![Platform](https://img.shields.io/badge/platform-Windows-lightgrey.svg)
 
 ---
 
